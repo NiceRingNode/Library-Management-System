@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/form.ico</file>
+        <file>icons/excel导出.ico</file>
+        <file>icons/excel导入.ico</file>
+        <file>icons/txt导入.ico</file>
+        <file>icons/txt导出.ico</file>
+        <file>icons/删除图书.ico</file>
+        <file>icons/增加图书.ico</file>
+        <file>icons/查找.ico</file>
+        <file>icons/ok.ico</file>
+        <file>icons/cancel.ico</file>
+        <file>icons/readingIcon.ico</file>
+        <file>icons/PDF导入.ico</file>
+        <file>icons/PDF删除.ico</file>
+        <file>icons/appIcon.ico</file>
+        <file>icons/图书预览.ico</file>
+        <file>icons/图书归还.ico</file>
+        <file>icons/图书借阅.ico</file>
+        <file>icons/borrow_return.ico</file>
+        <file>icons/cat.ico</file>
+        <file>icons/借出归还总日志.ico</file>
+        <file>icons/db.ico</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/maintitle.png</file>
+        <file>images/color.jpg</file>
+        <file>images/flower.jpg</file>
+        <file>images/sky light.jpg</file>
+        <file>images/straw.jpg</file>
+        <file>images/tower.jpg</file>
+        <file>images/no cover.jpg</file>
+    </qresource>
+</RCC>
